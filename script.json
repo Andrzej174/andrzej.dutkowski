@@ -1,0 +1,3 @@
+document.getElementById('joinButton').addEventListener('click', function() {
+    alert('Dziękujemy za zainteresowanie! Proszę napisać na adres: kontakt@andrzejdutkowski.pl');
+});
